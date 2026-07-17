@@ -1,0 +1,2585 @@
+{
+    "Desi": {
+        "Snacks": [
+            {
+                "name": "Samosa",
+                "time": 30,
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "3 medium potatoes (boiled & mashed)",
+                    "1/2 cup green peas",
+                    "1 tsp cumin seeds",
+                    "1 tsp fennel seeds",
+                    "1 tsp garam masala",
+                    "1/2 tsp red chili powder",
+                    "Salt to taste",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Knead flour with 4 tbsp oil and water into a stiff dough. Rest for 20 min.",
+                    "Heat 1 tbsp oil, add cumin & fennel seeds, then mashed potatoes, peas, and spices. Cook for 5 min.",
+                    "Roll dough into thin circles, cut in half, form cones, fill with potato mixture, seal edges.",
+                    "Deep fry on medium heat until golden brown. Serve with chutney."
+                ]
+            },
+            {
+                "name": "Pakora",
+                "time": 20,
+                "ingredients": [
+                    "1 cup gram flour (besan)",
+                    "1 medium onion (thinly sliced)",
+                    "1 medium potato (thinly sliced)",
+                    "2 green chilies (chopped)",
+                    "1/2 tsp red chili powder",
+                    "1/2 tsp carom seeds (ajwain)",
+                    "Salt to taste",
+                    "Water as needed",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Mix gram flour, spices, and salt. Add water gradually to make a thick batter.",
+                    "Dip sliced vegetables into batter, coat well.",
+                    "Drop small portions into hot oil. Fry until golden and crispy.",
+                    "Drain on paper towel. Serve hot with ketchup or chutney."
+                ]
+            },
+            {
+                "name": "Dahi Bhalla",
+                "time": 30,
+                "ingredients": [
+                    "1 cup urad dal (split black gram)",
+                    "2 cups yogurt (whisked)",
+                    "1/2 cup tamarind chutney",
+                    "1/2 cup green chutney",
+                    "1 tsp roasted cumin powder",
+                    "1 tsp red chili powder",
+                    "Salt to taste",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Soak urad dal for 4 hours, then grind into a smooth paste.",
+                    "Whisk the batter until fluffy. Drop spoonfuls into hot oil and fry until golden.",
+                    "Soak fried bhallas in warm water for 15 min, then gently squeeze out water.",
+                    "Arrange on a plate, pour whisked yogurt, drizzle chutneys, sprinkle cumin and chili powder. Serve chilled."
+                ]
+            },
+            {
+                "name": "Chicken Tikka",
+                "time": 25,
+                "ingredients": [
+                    "500g boneless chicken (cubed)",
+                    "1/2 cup yogurt",
+                    "2 tbsp ginger-garlic paste",
+                    "1 tbsp red chili powder",
+                    "1 tsp garam masala",
+                    "1 tbsp lemon juice",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Marinate chicken with yogurt, ginger-garlic, chili powder, garam masala, lemon juice, salt for 2 hours.",
+                    "Skewer chicken pieces. Grill or bake at 200°C for 15-20 min, basting with oil.",
+                    "Serve hot with mint chutney and onion rings."
+                ]
+            },
+            {
+                "name": "Pani Puri",
+                "time": 25,
+                "ingredients": [
+                    "20 puri shells",
+                    "1 cup boiled chickpeas",
+                    "1 cup boiled potatoes (diced)",
+                    "1 cup tamarind water",
+                    "1 cup mint-coriander water",
+                    "1 tsp chaat masala",
+                    "1/2 tsp black salt",
+                    "1/2 cup sweet chutney"
+                ],
+                "steps": [
+                    "Make a hole in each puri shell.",
+                    "Fill with mashed potatoes and chickpeas.",
+                    "Pour tamarind water and mint water into each puri.",
+                    "Top with sweet chutney, sprinkle chaat masala and black salt. Serve immediately."
+                ]
+            },
+            {
+                "name": "Aloo Tikki",
+                "time": 25,
+                "ingredients": [
+                    "4 medium potatoes (boiled & mashed)",
+                    "1/2 cup breadcrumbs",
+                    "1 tsp cumin powder",
+                    "1 tsp garam masala",
+                    "1/2 tsp red chili powder",
+                    "Salt to taste",
+                    "Oil for shallow frying"
+                ],
+                "steps": [
+                    "Mix mashed potatoes, breadcrumbs, and all spices.",
+                    "Shape into flat patties.",
+                    "Heat oil in a pan, shallow fry patties until golden brown on both sides.",
+                    "Serve with chutney and yogurt."
+                ]
+            },
+            {
+                "name": "Chicken Seekh Kabab",
+                "time": 30,
+                "ingredients": [
+                    "500g minced chicken",
+                    "1 onion (finely chopped)",
+                    "2 tbsp ginger-garlic paste",
+                    "2 green chilies (chopped)",
+                    "1 tsp garam masala",
+                    "1 tsp coriander powder",
+                    "1 egg",
+                    "2 tbsp oil"
+                ],
+                "steps": [
+                    "Mix all ingredients except oil until well combined.",
+                    "Shape mixture onto skewers into long sausages.",
+                    "Grill or pan-fry with oil until cooked through and charred.",
+                    "Serve with mint chutney and onion rings."
+                ]
+            },
+            {
+                "name": "Onion Bhaji",
+                "time": 15,
+                "ingredients": [
+                    "2 large onions (thinly sliced)",
+                    "1 cup gram flour",
+                    "1 tsp red chili powder",
+                    "1/2 tsp turmeric",
+                    "1 tsp cumin seeds",
+                    "Salt to taste",
+                    "Water as needed",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Mix gram flour, spices, and salt. Add water to make thick batter.",
+                    "Add sliced onions, coat well.",
+                    "Drop spoonfuls into hot oil, fry until golden and crispy.",
+                    "Serve with tamarind chutney."
+                ]
+            }
+        ],
+        "Main Courses": [
+            {
+                "name": "Chicken Biryani",
+                "time": 50,
+                "ingredients": [
+                    "500g chicken (cut into pieces)",
+                    "2 cups basmati rice (soaked 30 min)",
+                    "1 cup yogurt",
+                    "2 large onions (sliced)",
+                    "2 tbsp ginger-garlic paste",
+                    "1 tsp turmeric powder",
+                    "2 tsp red chili powder",
+                    "2 tsp biryani masala",
+                    "4 tbsp oil/ghee",
+                    "Saffron soaked in warm milk",
+                    "Fresh coriander & mint leaves",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, turmeric, chili powder, and salt for 30 min.",
+                    "Fry sliced onions until golden brown; set aside.",
+                    "In the same oil, add marinated chicken and cook until half done.",
+                    "Parboil rice with whole spices (bay leaf, cardamom, cloves) until 70% cooked. Drain.",
+                    "Layer rice over chicken, sprinkle fried onions, herbs, saffron milk, and biryani masala.",
+                    "Cover and cook on low heat (dum) for 20 min. Serve hot with raita."
+                ]
+            },
+            {
+                "name": "Nihari",
+                "time": 120,
+                "ingredients": [
+                    "1 kg beef shank (with bone)",
+                    "1/2 cup oil or ghee",
+                    "2 tbsp ginger-garlic paste",
+                    "2 tbsp nihari masala",
+                    "1/4 cup all-purpose flour (roasted)",
+                    "Salt to taste",
+                    "1 tbsp lemon juice",
+                    "Fresh ginger slices & green chilies for garnish"
+                ],
+                "steps": [
+                    "Heat oil, add ginger-garlic paste and nihari masala, fry for 1 min.",
+                    "Add beef and sear until brown. Add 6 cups water and salt. Pressure cook for 45 min (or simmer 3 hours).",
+                    "Mix roasted flour with 1 cup water to make a slurry. Add to the curry and cook until thickened.",
+                    "Finish with lemon juice. Garnish with ginger slices and green chilies. Serve with naan."
+                ]
+            },
+            {
+                "name": "Daal Makhani",
+                "time": 45,
+                "ingredients": [
+                    "1 cup whole black urad dal (soaked overnight)",
+                    "1/4 cup rajma (kidney beans, soaked overnight)",
+                    "3 tbsp butter",
+                    "2 tbsp oil",
+                    "1 cup tomato puree",
+                    "1 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp red chili powder",
+                    "1/2 cup fresh cream",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Pressure cook dal and rajma with 4 cups water until soft (about 6 whistles). Mash lightly.",
+                    "Heat butter and oil, add cumin seeds and ginger-garlic paste. Saute.",
+                    "Add tomato puree, chili powder, and cook until oil separates.",
+                    "Add cooked dal, salt, and simmer for 20 min, stirring often.",
+                    "Stir in cream and simmer another 5 min. Serve with rice or naan."
+                ]
+            },
+            {
+                "name": "Mutton Karahi",
+                "time": 45,
+                "ingredients": [
+                    "500g mutton (bone-in)",
+                    "4 tbsp oil",
+                    "4 medium tomatoes (chopped)",
+                    "1 tbsp ginger-garlic paste",
+                    "2 green chilies (slit)",
+                    "1 tsp red chili powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp black pepper",
+                    "1/2 cup yogurt",
+                    "Fresh coriander leaves",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat oil, add mutton and ginger-garlic paste. Fry until mutton changes color.",
+                    "Add chopped tomatoes, cover and cook until tomatoes soften and oil separates.",
+                    "Add chili powder, coriander powder, salt, and yogurt. Cook until mutton is tender (about 20 min).",
+                    "Sprinkle black pepper and green chilies. Garnish with coriander. Serve with naan."
+                ]
+            },
+            {
+                "name": "Palak Paneer",
+                "time": 30,
+                "ingredients": [
+                    "200g paneer (cubed)",
+                    "2 cups spinach (blanched and pureed)",
+                    "1 onion (finely chopped)",
+                    "2 tomatoes (pureed)",
+                    "1 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp garam masala",
+                    "1/2 tsp red chili powder",
+                    "2 tbsp cream",
+                    "2 tbsp butter",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Heat butter, add cumin seeds, onion, and ginger-garlic paste. Saute until golden.",
+                    "Add tomato puree, cook until oil separates. Add spinach puree, chili powder, garam masala, salt. Cook 5 min.",
+                    "Add paneer cubes and cream. Simmer 5 more minutes. Serve with roti or naan."
+                ]
+            },
+            {
+                "name": "Butter Chicken",
+                "time": 40,
+                "ingredients": [
+                    "500g chicken (boneless)",
+                    "2 tbsp butter",
+                    "1 cup tomato puree",
+                    "1/2 cup fresh cream",
+                    "2 tbsp cashew paste",
+                    "1 tbsp ginger-garlic paste",
+                    "1 tsp red chili powder",
+                    "1 tsp garam masala",
+                    "1 tsp kasuri methi",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Marinate chicken in yogurt, chili powder, and salt for 30 min. Grill or pan-fry until cooked.",
+                    "Heat butter, add ginger-garlic paste, tomato puree, cashew paste. Cook until oil separates.",
+                    "Add red chili powder, garam masala, and salt. Simmer for 10 min.",
+                    "Add cream and grilled chicken. Simmer 5 min. Add crushed kasuri methi. Serve with naan."
+                ]
+            },
+            {
+                "name": "Chole Bhature",
+                "time": 40,
+                "ingredients": [
+                    "2 cups chickpeas (soaked overnight)",
+                    "2 onions (finely chopped)",
+                    "2 tomatoes (pureed)",
+                    "1 tbsp chole masala",
+                    "1 tsp cumin seeds",
+                    "1 tsp ginger-garlic paste",
+                    "2 cups all-purpose flour",
+                    "1/2 cup yogurt",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Pressure cook chickpeas until soft.",
+                    "Heat oil, add cumin seeds, onions, ginger-garlic paste. Saute until golden.",
+                    "Add tomato puree and chole masala, cook until oil separates.",
+                    "Add cooked chickpeas and water. Simmer for 15 min.",
+                    "For bhature: Knead flour, yogurt, and salt into soft dough. Rest 1 hour. Roll and deep fry."
+                ]
+            },
+            {
+                "name": "Fish Curry",
+                "time": 25,
+                "ingredients": [
+                    "500g fish fillets (any firm fish)",
+                    "1 onion (finely chopped)",
+                    "2 tomatoes (pureed)",
+                    "1/2 cup coconut milk",
+                    "1 tsp turmeric",
+                    "1 tsp red chili powder",
+                    "1 tsp cumin seeds",
+                    "1 tbsp ginger-garlic paste",
+                    "Fresh coriander",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Marinate fish with turmeric and salt. Shallow fry until golden. Set aside.",
+                    "Heat oil, add cumin seeds, onion, ginger-garlic paste. Saute until brown.",
+                    "Add tomato puree, chili powder, cook until oil separates.",
+                    "Add coconut milk and 1/2 cup water. Simmer for 5 min.",
+                    "Add fried fish, cook for 5 min. Garnish with coriander. Serve with rice."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Gulab Jamun",
+                "time": 35,
+                "ingredients": [
+                    "1 cup milk powder",
+                    "2 tbsp all-purpose flour",
+                    "2 tbsp ghee",
+                    "3-4 tbsp milk (to knead)",
+                    "1 cup sugar",
+                    "1 cup water",
+                    "4-5 cardamom pods (crushed)",
+                    "Oil/ghee for deep frying"
+                ],
+                "steps": [
+                    "Mix milk powder, flour, and ghee. Add milk gradually to form a soft dough. Rest 10 min.",
+                    "Make small smooth balls (no cracks).",
+                    "Prepare sugar syrup: boil sugar, water, and cardamom until slightly sticky. Keep warm.",
+                    "Deep fry balls on low heat until golden brown. Drain and immediately drop into warm syrup.",
+                    "Let soak for at least 1 hour. Serve warm or room temperature."
+                ]
+            },
+            {
+                "name": "Kheer",
+                "time": 50,
+                "ingredients": [
+                    "1 liter full-fat milk",
+                    "1/4 cup basmati rice (soaked 30 min)",
+                    "1/2 cup sugar",
+                    "2 tbsp ghee",
+                    "10-12 almonds (slivered)",
+                    "10-12 pistachios (slivered)",
+                    "4-5 cardamom pods (crushed)",
+                    "Pinch of saffron"
+                ],
+                "steps": [
+                    "Drain rice and grind coarsely.",
+                    "Heat ghee in a heavy pan, add rice and fry for 2 min.",
+                    "Add milk and bring to a boil, then simmer on low heat, stirring often, until rice is soft and milk thickens (about 40 min).",
+                    "Add sugar, cardamom, saffron, and half the nuts. Cook 5 more minutes.",
+                    "Serve chilled or warm, garnished with remaining nuts."
+                ]
+            },
+            {
+                "name": "Jalebi",
+                "time": 40,
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "2 tbsp cornflour",
+                    "1/2 cup yogurt",
+                    "1/2 tsp baking soda",
+                    "1 cup sugar",
+                    "1/2 cup water",
+                    "1/4 tsp saffron",
+                    "1/2 tsp cardamom powder",
+                    "Ghee/oil for frying"
+                ],
+                "steps": [
+                    "Mix flour, cornflour, yogurt, and 1/2 cup water into a smooth batter. Ferment for 6-8 hours.",
+                    "Add baking soda just before frying. Mix well.",
+                    "Make sugar syrup: boil sugar, water, saffron, cardamom until one-string consistency.",
+                    "Fill batter in a piping bag with small nozzle. Pipe spirals into hot ghee, fry until crisp and golden.",
+                    "Dip in warm syrup for 30 seconds. Serve hot."
+                ]
+            },
+            {
+                "name": "Ras Malai",
+                "time": 45,
+                "ingredients": [
+                    "1 liter full-fat milk",
+                    "2 tbsp lemon juice",
+                    "1 cup sugar",
+                    "4 cups water",
+                    "1 can evaporated milk",
+                    "1/4 cup condensed milk",
+                    "4-5 cardamom pods",
+                    "Sliced almonds & pistachios"
+                ],
+                "steps": [
+                    "Boil milk, add lemon juice to curdle. Strain and hang paneer for 2 hours.",
+                    "Knead paneer until smooth, form small flat balls.",
+                    "Boil sugar and water, add paneer balls, cook for 10 min. Remove and cool.",
+                    "Simmer evaporated milk, condensed milk, and cardamom until thickened. Cool.",
+                    "Soak paneer balls in thickened milk. Refrigerate for 4 hours. Garnish with nuts."
+                ]
+            },
+            {
+                "name": "Gajar Ka Halwa",
+                "time": 50,
+                "ingredients": [
+                    "1 kg red carrots (grated)",
+                    "1 liter full-fat milk",
+                    "1/2 cup ghee",
+                    "1 cup sugar",
+                    "1/2 cup khoya (optional)",
+                    "1/4 cup raisins",
+                    "1/4 cup chopped almonds & pistachios",
+                    "1/2 tsp cardamom powder"
+                ],
+                "steps": [
+                    "Heat ghee, add grated carrots. Saute for 5-7 min until softened.",
+                    "Add milk, cook on low heat, stirring often, until milk is fully absorbed (30-40 min).",
+                    "Add sugar, khoya, raisins, and half the nuts. Cook until sugar dissolves and mixture thickens.",
+                    "Add cardamom powder. Garnish with remaining nuts. Serve warm."
+                ]
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Mango Lassi",
+                "time": 5,
+                "ingredients": [
+                    "1 cup ripe mango pulp",
+                    "1 cup plain yogurt",
+                    "1/2 cup cold milk",
+                    "2 tbsp sugar (or to taste)",
+                    "4-5 ice cubes",
+                    "Pinch of cardamom powder (optional)"
+                ],
+                "steps": [
+                    "Blend all ingredients until smooth and frothy.",
+                    "Pour into glasses, garnish with a mango slice or mint leaf. Serve immediately."
+                ]
+            },
+            {
+                "name": "Masala Chai",
+                "time": 10,
+                "ingredients": [
+                    "2 cups water",
+                    "1 cup milk",
+                    "2 tbsp loose black tea leaves",
+                    "2 tbsp sugar",
+                    "2-3 green cardamom pods (crushed)",
+                    "1 small cinnamon stick",
+                    "2-3 cloves",
+                    "1/2 inch ginger (grated)"
+                ],
+                "steps": [
+                    "Bring water, spices, and ginger to a boil. Simmer for 2 min.",
+                    "Add tea leaves and sugar, boil for 2 min.",
+                    "Add milk, bring to a rolling boil. Strain into cups. Serve hot."
+                ]
+            },
+            {
+                "name": "Rooh Afza Milkshake",
+                "time": 5,
+                "ingredients": [
+                    "2 cups chilled milk",
+                    "3 tbsp Rooh Afza syrup",
+                    "2 scoops vanilla ice cream",
+                    "Ice cubes",
+                    "Sabja (basil) seeds (soaked) - optional"
+                ],
+                "steps": [
+                    "Blend milk, Rooh Afza, and ice cream until frothy.",
+                    "Fill glass with ice cubes and soaked sabja seeds.",
+                    "Pour milkshake, garnish with a mint leaf. Serve cold."
+                ]
+            },
+            {
+                "name": "Nimbu Pani (Indian Lemonade)",
+                "time": 5,
+                "ingredients": [
+                    "4 tbsp lemon juice",
+                    "3 tbsp sugar",
+                    "1/4 tsp black salt",
+                    "1/2 tsp roasted cumin powder",
+                    "2 cups chilled water",
+                    "Ice cubes",
+                    "Mint leaves for garnish"
+                ],
+                "steps": [
+                    "In a pitcher, mix lemon juice, sugar, black salt, and cumin powder.",
+                    "Add water and stir until sugar dissolves.",
+                    "Add ice cubes, garnish with mint. Serve chilled."
+                ]
+            },
+            {
+                "name": "Thandai",
+                "time": 15,
+                "ingredients": [
+                    "2 cups milk",
+                    "2 tbsp thandai masala (fennel seeds, cardamom, peppercorns, almonds, melon seeds)",
+                    "2 tbsp sugar",
+                    "Saffron strands",
+                    "Ice cubes",
+                    "Chopped pistachios for garnish"
+                ],
+                "steps": [
+                    "Grind all thandai masala ingredients into a fine powder.",
+                    "Blend milk, sugar, thandai powder, and saffron until smooth.",
+                    "Pour over ice cubes, garnish with pistachios. Serve chilled."
+                ]
+            }
+        ]
+    },
+    "Continental": {
+        "Snacks": [
+            {
+                "name": "Bruschetta",
+                "time": 15,
+                "ingredients": [
+                    "1 French baguette (sliced 1/2 inch thick)",
+                    "3 ripe tomatoes (diced)",
+                    "4 cloves garlic (minced)",
+                    "1/4 cup fresh basil (chopped)",
+                    "3 tbsp extra virgin olive oil",
+                    "1 tbsp balsamic vinegar",
+                    "Salt & pepper to taste"
+                ],
+                "steps": [
+                    "Toast baguette slices until golden and crisp.",
+                    "Mix tomatoes, garlic, basil, olive oil, balsamic vinegar, salt, and pepper in a bowl.",
+                    "Spoon tomato mixture onto toast slices. Serve immediately."
+                ]
+            },
+            {
+                "name": "French Fries",
+                "time": 25,
+                "ingredients": [
+                    "4 large potatoes (russet or yukon gold)",
+                    "Oil for deep frying (peanut or vegetable oil)",
+                    "Salt to taste",
+                    "Optional: paprika, garlic powder, or vinegar"
+                ],
+                "steps": [
+                    "Cut potatoes into even sticks (1/4 inch thick). Soak in cold water for 30 min to remove starch.",
+                    "Drain and pat completely dry.",
+                    "First fry at 325°F (165°C) for 5-6 min until soft but not brown. Drain and cool.",
+                    "Second fry at 375°F (190°C) until golden and crispy (2-3 min).",
+                    "Drain on paper towel, season immediately with salt. Serve with ketchup."
+                ]
+            },
+            {
+                "name": "Garlic Bread",
+                "time": 12,
+                "ingredients": [
+                    "1 French baguette (halved lengthwise)",
+                    "1/2 cup unsalted butter (softened)",
+                    "6 cloves garlic (minced)",
+                    "1/4 cup fresh parsley (finely chopped)",
+                    "1/2 cup grated Parmesan cheese (optional)"
+                ],
+                "steps": [
+                    "Preheat oven to 400°F (200°C).",
+                    "Mix butter, garlic, and parsley in a bowl.",
+                    "Spread butter mixture generously on cut sides of baguette.",
+                    "Place on baking sheet, sprinkle with Parmesan if desired.",
+                    "Bake for 8-10 min until edges are crisp and golden. Slice and serve warm."
+                ]
+            },
+            {
+                "name": "Mozzarella Sticks",
+                "time": 15,
+                "ingredients": [
+                    "12 mozzarella cheese sticks",
+                    "1 cup breadcrumbs",
+                    "1/2 cup all-purpose flour",
+                    "2 eggs (beaten)",
+                    "1 tsp garlic powder",
+                    "1 tsp oregano",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Freeze mozzarella sticks for 30 min.",
+                    "Mix breadcrumbs, garlic powder, and oregano.",
+                    "Dredge each stick in flour, then egg, then breadcrumbs. Repeat for double coating.",
+                    "Deep fry at 350°F (175°C) for 1-2 min until golden. Serve with marinara sauce."
+                ]
+            },
+            {
+                "name": "Onion Rings",
+                "time": 20,
+                "ingredients": [
+                    "2 large onions (sliced into rings)",
+                    "1 cup buttermilk",
+                    "1 cup all-purpose flour",
+                    "1 cup breadcrumbs",
+                    "1 tsp paprika",
+                    "Salt & pepper to taste",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Soak onion rings in buttermilk for 30 min.",
+                    "Mix flour, breadcrumbs, paprika, salt, and pepper.",
+                    "Dredge rings in flour mixture, shaking off excess.",
+                    "Deep fry at 375°F (190°C) until golden brown. Drain on paper towel. Serve hot."
+                ]
+            },
+            {
+                "name": "Chicken Wings (Buffalo)",
+                "time": 25,
+                "ingredients": [
+                    "12 chicken wings",
+                    "1/2 cup hot sauce",
+                    "1/4 cup melted butter",
+                    "1 tsp garlic powder",
+                    "1 tsp paprika",
+                    "Salt to taste",
+                    "Celery sticks & blue cheese dressing for serving"
+                ],
+                "steps": [
+                    "Season wings with salt, garlic powder, paprika.",
+                    "Bake at 400°F (200°C) for 20 min or deep fry until crispy.",
+                    "Mix hot sauce and melted butter. Toss wings in sauce.",
+                    "Serve with celery sticks and blue cheese dressing."
+                ]
+            },
+            {
+                "name": "Nachos with Cheese Sauce",
+                "time": 10,
+                "ingredients": [
+                    "1 bag tortilla chips",
+                    "1 cup shredded cheddar cheese",
+                    "1/2 cup milk",
+                    "1 tbsp butter",
+                    "1 tbsp all-purpose flour",
+                    "Jalapenos, salsa, sour cream for topping"
+                ],
+                "steps": [
+                    "Arrange tortilla chips on a baking sheet.",
+                    "Make cheese sauce: melt butter, add flour, whisk in milk, then add cheese until smooth.",
+                    "Pour cheese sauce over chips. Top with jalapenos.",
+                    "Bake at 350°F (175°C) for 5 min. Serve with salsa and sour cream."
+                ]
+            },
+            {
+                "name": "Pigs in a Blanket",
+                "time": 20,
+                "ingredients": [
+                    "1 can crescent roll dough",
+                    "12 mini sausages or hot dogs",
+                    "1 egg wash (for brushing)",
+                    "Sesame seeds (optional)"
+                ],
+                "steps": [
+                    "Preheat oven to 375°F (190°C).",
+                    "Cut crescent dough into small triangles. Wrap each sausage in dough.",
+                    "Place on baking sheet, brush with egg wash, sprinkle sesame seeds.",
+                    "Bake for 12-15 min until golden. Serve with mustard or ketchup."
+                ]
+            }
+        ],
+        "Main Courses": [
+            {
+                "name": "Alfredo Pasta",
+                "time": 25,
+                "ingredients": [
+                    "200g fettuccine pasta",
+                    "1/2 cup unsalted butter",
+                    "1 cup heavy cream",
+                    "1 cup grated Parmesan cheese",
+                    "2 cloves garlic (minced)",
+                    "Salt & white pepper to taste",
+                    "Fresh parsley for garnish"
+                ],
+                "steps": [
+                    "Cook pasta according to package directions until al dente. Drain, reserve 1/2 cup pasta water.",
+                    "In a skillet, melt butter over medium heat. Add garlic and sauté 1 min.",
+                    "Add cream and bring to a simmer. Reduce heat, whisk in Parmesan until smooth.",
+                    "Toss in cooked pasta, add pasta water if needed for consistency. Season with salt and white pepper.",
+                    "Garnish with parsley. Serve immediately."
+                ]
+            },
+            {
+                "name": "Grilled Steak",
+                "time": 20,
+                "ingredients": [
+                    "2 beef steaks (ribeye or sirloin, 1 inch thick)",
+                    "2 tbsp olive oil",
+                    "4 cloves garlic (crushed)",
+                    "2 sprigs fresh rosemary",
+                    "2 sprigs fresh thyme",
+                    "2 tbsp butter",
+                    "Salt & coarse black pepper"
+                ],
+                "steps": [
+                    "Pat steaks dry, season generously with salt and pepper. Let sit at room temp for 30 min.",
+                    "Heat a cast iron skillet over high heat until smoking. Add oil.",
+                    "Sear steaks for 2-3 min per side for medium-rare.",
+                    "Reduce heat to medium, add butter, garlic, rosemary, and thyme. Tilt pan and baste steaks with butter for 1 min.",
+                    "Rest steaks on a cutting board for 5 min before serving. Slice against the grain."
+                ]
+            },
+            {
+                "name": "Chicken Parmesan",
+                "time": 35,
+                "ingredients": [
+                    "2 boneless chicken breasts (halved horizontally)",
+                    "1 cup breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "1 egg (beaten)",
+                    "1 cup marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup olive oil",
+                    "Salt & pepper"
+                ],
+                "steps": [
+                    "Preheat oven to 400°F (200°C).",
+                    "Season chicken with salt and pepper. Dredge in flour, then egg, then breadcrumbs mixed with Parmesan.",
+                    "Heat oil in skillet, fry chicken until golden brown (2-3 min per side).",
+                    "Place chicken in baking dish, top each with marinara sauce and mozzarella.",
+                    "Bake for 15 min until cheese is bubbly and chicken is cooked through. Serve with pasta or salad."
+                ]
+            },
+            {
+                "name": "Beef Lasagna",
+                "time": 70,
+                "ingredients": [
+                    "12 lasagna noodles",
+                    "500g ground beef",
+                    "2 cups marinara sauce",
+                    "1 cup ricotta cheese",
+                    "2 cups shredded mozzarella",
+                    "1/2 cup Parmesan cheese",
+                    "1 egg",
+                    "2 tbsp olive oil",
+                    "1 onion (chopped)",
+                    "3 cloves garlic (minced)",
+                    "Salt & pepper"
+                ],
+                "steps": [
+                    "Cook lasagna noodles according to package. Drain and set aside.",
+                    "Heat oil, sauté onion and garlic. Add beef, cook until browned. Stir in marinara sauce, simmer 10 min.",
+                    "Mix ricotta, egg, half the mozzarella, Parmesan, salt, and pepper.",
+                    "Preheat oven to 375°F (190°C). In a baking dish, layer: meat sauce, noodles, ricotta mixture. Repeat.",
+                    "Top with remaining mozzarella. Cover with foil, bake 25 min. Uncover, bake 15 min more. Let rest 10 min before serving."
+                ]
+            },
+            {
+                "name": "Fish and Chips",
+                "time": 30,
+                "ingredients": [
+                    "4 white fish fillets (cod or haddock)",
+                    "1 cup all-purpose flour",
+                    "1 tsp baking powder",
+                    "1 cup cold beer or sparkling water",
+                    "Salt & pepper to taste",
+                    "Oil for deep frying",
+                    "4 large potatoes (for chips)"
+                ],
+                "steps": [
+                    "Cut potatoes into thick fries. Double fry as per French fries recipe.",
+                    "Mix flour, baking powder, salt, pepper. Whisk in cold beer until smooth batter forms.",
+                    "Pat fish dry, dip in batter, let excess drip off.",
+                    "Deep fry at 375°F (190°C) for 5-6 min until golden and crispy.",
+                    "Serve with tartar sauce and lemon wedges."
+                ]
+            },
+            {
+                "name": "Shepherd's Pie",
+                "time": 50,
+                "ingredients": [
+                    "500g ground lamb or beef",
+                    "1 onion (chopped)",
+                    "2 carrots (diced)",
+                    "1 cup frozen peas",
+                    "2 tbsp tomato paste",
+                    "1 cup beef broth",
+                    "4 cups mashed potatoes",
+                    "2 tbsp butter",
+                    "Salt & pepper to taste"
+                ],
+                "steps": [
+                    "Preheat oven to 375°F (190°C).",
+                    "Brown meat in a skillet. Add onion, carrots, cook until soft.",
+                    "Add tomato paste, broth, peas. Simmer until thickened.",
+                    "Transfer to baking dish, top with mashed potatoes.",
+                    "Dot with butter, bake for 20-25 min until bubbly and golden."
+                ]
+            },
+            {
+                "name": "Margherita Pizza",
+                "time": 25,
+                "ingredients": [
+                    "1 pizza dough ball",
+                    "1/2 cup tomato sauce",
+                    "8 oz fresh mozzarella (sliced)",
+                    "Fresh basil leaves",
+                    "2 tbsp olive oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Preheat oven to 475°F (245°C) with pizza stone if available.",
+                    "Roll out dough, spread tomato sauce evenly.",
+                    "Top with mozzarella slices and fresh basil.",
+                    "Drizzle with olive oil and sprinkle salt.",
+                    "Bake for 10-12 min until crust is golden and cheese is bubbly."
+                ]
+            },
+            {
+                "name": "Beef Burger",
+                "time": 20,
+                "ingredients": [
+                    "500g ground beef (80/20)",
+                    "4 burger buns",
+                    "4 slices cheddar cheese",
+                    "Lettuce, tomato, onion slices",
+                    "Salt & pepper to taste",
+                    "Burger sauce (mayo, ketchup, mustard)"
+                ],
+                "steps": [
+                    "Form ground beef into 4 patties, season both sides with salt and pepper.",
+                    "Grill or pan-fry patties for 3-4 min per side for medium. Add cheese in last minute.",
+                    "Toast buns lightly. Spread sauce on bottom bun.",
+                    "Layer lettuce, patty, tomato, onion, top bun. Serve with fries."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Apple Pie",
+                "time": 60,
+                "ingredients": [
+                    "2 pie crusts (store-bought or homemade)",
+                    "6-7 Granny Smith apples (peeled, cored, sliced)",
+                    "3/4 cup sugar",
+                    "2 tbsp all-purpose flour",
+                    "1 tsp cinnamon",
+                    "1/4 tsp nutmeg",
+                    "1 tbsp lemon juice",
+                    "1 tbsp butter (cut into small pieces)",
+                    "1 egg wash (for brushing)"
+                ],
+                "steps": [
+                    "Preheat oven to 425°F (220°C).",
+                    "In a bowl, mix apple slices, sugar, flour, cinnamon, nutmeg, and lemon juice.",
+                    "Line a pie dish with one crust. Fill with apple mixture, dot with butter.",
+                    "Cover with second crust, crimp edges, cut slits on top. Brush with egg wash.",
+                    "Bake for 15 min, then reduce heat to 350°F (175°C) and bake 35-40 min until golden. Cool before slicing."
+                ]
+            },
+            {
+                "name": "Brownies",
+                "time": 30,
+                "ingredients": [
+                    "1/2 cup unsalted butter",
+                    "1 cup sugar",
+                    "2 large eggs",
+                    "1 tsp vanilla extract",
+                    "1/3 cup unsweetened cocoa powder",
+                    "1/2 cup all-purpose flour",
+                    "1/4 tsp salt",
+                    "1/4 tsp baking powder"
+                ],
+                "steps": [
+                    "Preheat oven to 350°F (175°C). Grease an 8x8 inch pan.",
+                    "Melt butter, then stir in sugar, eggs, and vanilla.",
+                    "Beat in cocoa, flour, salt, and baking powder until combined.",
+                    "Spread batter in pan. Bake for 20-25 min (toothpick should come out with moist crumbs).",
+                    "Cool completely before cutting. Serve fudgy brownies."
+                ]
+            },
+            {
+                "name": "Tiramisu",
+                "time": 30,
+                "ingredients": [
+                    "3 large eggs",
+                    "1/2 cup sugar",
+                    "8 oz mascarpone cheese",
+                    "1 cup strong espresso (cooled)",
+                    "24 ladyfinger biscuits",
+                    "2 tbsp unsweetened cocoa powder"
+                ],
+                "steps": [
+                    "Whisk egg yolks and sugar until pale. Add mascarpone, mix until smooth.",
+                    "Beat egg whites to stiff peaks, fold into mascarpone mixture.",
+                    "Dip ladyfingers in espresso briefly, layer in a dish. Spread half the mascarpone mixture.",
+                    "Repeat layer. Dust with cocoa powder. Refrigerate 4 hours before serving."
+                ]
+            },
+            {
+                "name": "Creme Brulee",
+                "time": 45,
+                "ingredients": [
+                    "2 cups heavy cream",
+                    "1/2 cup sugar",
+                    "4 large egg yolks",
+                    "1 tsp vanilla extract",
+                    "2 tbsp brown sugar (for topping)"
+                ],
+                "steps": [
+                    "Preheat oven to 300°F (150°C). Heat cream until just simmering.",
+                    "Whisk egg yolks, sugar, and vanilla. Slowly pour hot cream into egg mixture, whisking constantly.",
+                    "Strain mixture into ramekins. Place ramekins in a water bath. Bake 35-40 min until set.",
+                    "Cool, refrigerate 2 hours. Sprinkle brown sugar on top, caramelize with torch until crispy."
+                ]
+            },
+            {
+                "name": "Cheesecake",
+                "time": 60,
+                "ingredients": [
+                    "1 1/2 cups graham cracker crumbs",
+                    "1/4 cup melted butter",
+                    "2 tbsp sugar",
+                    "16 oz cream cheese (softened)",
+                    "2/3 cup sugar",
+                    "2 large eggs",
+                    "1 tsp vanilla extract",
+                    "1/2 cup sour cream"
+                ],
+                "steps": [
+                    "Mix crumbs, butter, 2 tbsp sugar. Press into springform pan. Chill 30 min.",
+                    "Beat cream cheese and sugar until smooth. Add eggs one at a time, then vanilla and sour cream.",
+                    "Pour over crust. Bake at 325°F (160°C) for 45 min. Turn off oven, leave door slightly open for 1 hour.",
+                    "Cool completely, refrigerate 4 hours before serving."
+                ]
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Iced Latte",
+                "time": 5,
+                "ingredients": [
+                    "2 shots espresso (or 1/2 cup strong coffee)",
+                    "1 cup cold milk",
+                    "1 tbsp sugar or flavored syrup (optional)",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Fill a tall glass with ice cubes.",
+                    "Pour espresso and sugar over ice, stir to dissolve.",
+                    "Top with cold milk, stir gently. Serve with a straw."
+                ]
+            },
+            {
+                "name": "Virgin Mojito",
+                "time": 5,
+                "ingredients": [
+                    "1 lime (cut into wedges)",
+                    "10 fresh mint leaves",
+                    "2 tbsp sugar",
+                    "1/2 cup club soda or sprite",
+                    "Ice cubes",
+                    "Lime slice & mint sprig for garnish"
+                ],
+                "steps": [
+                    "In a glass, muddle lime wedges, mint leaves, and sugar until mint releases aroma.",
+                    "Fill glass with ice cubes, pour club soda over.",
+                    "Stir gently, garnish with lime slice and mint sprig. Serve immediately."
+                ]
+            },
+            {
+                "name": "Strawberry Smoothie",
+                "time": 5,
+                "ingredients": [
+                    "1 cup frozen strawberries",
+                    "1 banana",
+                    "1/2 cup yogurt",
+                    "1/2 cup orange juice",
+                    "1 tbsp honey",
+                    "Ice cubes (optional)"
+                ],
+                "steps": [
+                    "Blend all ingredients until smooth and creamy.",
+                    "Pour into a tall glass. Serve chilled with a straw."
+                ]
+            },
+            {
+                "name": "Hot Chocolate",
+                "time": 8,
+                "ingredients": [
+                    "2 cups milk",
+                    "2 tbsp unsweetened cocoa powder",
+                    "2 tbsp sugar",
+                    "1/4 cup dark chocolate chips",
+                    "1/4 tsp vanilla extract",
+                    "Whipped cream for topping"
+                ],
+                "steps": [
+                    "Heat milk in a saucepan until warm (not boiling).",
+                    "Whisk in cocoa powder, sugar, and chocolate chips until melted and smooth.",
+                    "Add vanilla, stir. Pour into mugs, top with whipped cream."
+                ]
+            },
+            {
+                "name": "Lemonade",
+                "time": 5,
+                "ingredients": [
+                    "1/2 cup fresh lemon juice",
+                    "1/2 cup sugar",
+                    "3 cups cold water",
+                    "Ice cubes",
+                    "Lemon slices & mint leaves for garnish"
+                ],
+                "steps": [
+                    "In a pitcher, mix lemon juice, sugar, and 1 cup warm water until sugar dissolves.",
+                    "Add remaining 2 cups cold water and stir.",
+                    "Add ice cubes, garnish with lemon slices and mint. Serve chilled."
+                ]
+            }
+        ]
+    },
+    "East Asian": {
+        "Snacks": [
+            {
+                "name": "Spring Rolls",
+                "time": 30,
+                "ingredients": [
+                    "10 spring roll wrappers",
+                    "1 cup shredded cabbage",
+                    "1/2 cup julienned carrot",
+                    "1/2 cup bean sprouts",
+                    "2 tbsp soy sauce",
+                    "1 tsp sesame oil",
+                    "1/2 tsp white pepper",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "In a pan, stir-fry cabbage, carrot, and sprouts with soy sauce, sesame oil, and pepper until slightly wilted (2 min).",
+                    "Let filling cool. Place wrapper with a corner pointing toward you, place 2 tbsp filling near the bottom, fold sides, roll tightly, seal with water.",
+                    "Heat oil to 350°F (175°C). Fry spring rolls until golden brown (3-4 min). Drain on paper towel. Serve with sweet chili sauce."
+                ]
+            },
+            {
+                "name": "Gyoza",
+                "time": 35,
+                "ingredients": [
+                    "20 gyoza wrappers",
+                    "200g ground pork",
+                    "1 cup finely chopped napa cabbage",
+                    "2 green onions (finely chopped)",
+                    "1 tbsp soy sauce",
+                    "1 tsp sesame oil",
+                    "1 tsp grated ginger",
+                    "1 clove garlic (minced)",
+                    "2 tbsp vegetable oil",
+                    "1/4 cup water"
+                ],
+                "steps": [
+                    "Mix pork, cabbage, green onions, soy sauce, sesame oil, ginger, garlic.",
+                    "Place 1 tsp filling in center of wrapper, wet edges, fold and pleat to seal.",
+                    "Heat oil in non-stick pan, arrange gyoza flat side down. Fry until bottoms are golden (2-3 min).",
+                    "Add water, cover, and steam for 5 min until wrappers are translucent.",
+                    "Remove lid, let moisture evaporate. Serve with dipping sauce (soy sauce+vinegar)."
+                ]
+            },
+            {
+                "name": "Edamame",
+                "time": 8,
+                "ingredients": [
+                    "2 cups frozen edamame (in pods)",
+                    "1 tbsp sea salt",
+                    "1 tsp sesame oil (optional)"
+                ],
+                "steps": [
+                    "Boil edamame in salted water for 4-5 min.",
+                    "Drain, toss with sesame oil and additional sea salt.",
+                    "Serve warm as a snack."
+                ]
+            },
+            {
+                "name": "Onigiri (Rice Balls)",
+                "time": 15,
+                "ingredients": [
+                    "2 cups sushi rice (cooked)",
+                    "1/2 cup canned tuna (mixed with mayo)",
+                    "1/4 cup pickled plum (umeboshi)",
+                    "4 nori sheets (cut into strips)",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Wet hands with water and salt. Take a handful of rice.",
+                    "Make a dent, fill with tuna or plum, close rice around filling.",
+                    "Shape into triangle or ball. Wrap with nori strip.",
+                    "Serve at room temperature."
+                ]
+            },
+            {
+                "name": "Takoyaki",
+                "time": 25,
+                "ingredients": [
+                    "1 cup takoyaki batter mix",
+                    "2 eggs",
+                    "2 cups water",
+                    "100g octopus (cooked, diced)",
+                    "1/4 cup green onions",
+                    "1/4 cup pickled ginger",
+                    "Takoyaki sauce, mayo, bonito flakes, nori"
+                ],
+                "steps": [
+                    "Mix batter, eggs, and water.",
+                    "Heat takoyaki pan, grease holes, pour batter until full.",
+                    "Add octopus, onion, ginger into each hole.",
+                    "Flip balls as they cook until golden and crispy.",
+                    "Top with sauce, mayo, bonito flakes, nori."
+                ]
+            },
+            {
+                "name": "Tempura Shrimp",
+                "time": 20,
+                "ingredients": [
+                    "12 large shrimp (peeled, deveined, tail on)",
+                    "1 cup tempura flour",
+                    "3/4 cup ice cold water",
+                    "1 egg yolk",
+                    "Oil for deep frying",
+                    "Dipping sauce (soy, mirin, dashi)"
+                ],
+                "steps": [
+                    "Make small cuts on shrimp belly to prevent curling.",
+                    "Mix flour, ice water, and egg yolk lightly (lumpy batter is okay).",
+                    "Dip shrimp in batter, deep fry at 350°F (175°C) for 2-3 min until crispy.",
+                    "Drain on paper towel. Serve with tentsuyu sauce."
+                ]
+            },
+            {
+                "name": "Scallion Pancakes",
+                "time": 20,
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "3/4 cup hot water",
+                    "1 cup chopped scallions",
+                    "1/4 cup sesame oil",
+                    "Salt to taste",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "Mix flour and hot water, knead into dough. Rest 30 min.",
+                    "Roll out dough thin, brush with sesame oil, sprinkle scallions and salt.",
+                    "Roll up like a log, then coil into a spiral. Flatten again.",
+                    "Pan-fry until golden and crispy on both sides. Cut into wedges."
+                ]
+            },
+            {
+                "name": "Chinese Dumplings (Jiaozi)",
+                "time": 40,
+                "ingredients": [
+                    "30 dumpling wrappers",
+                    "250g ground pork",
+                    "1 cup napa cabbage (finely chopped)",
+                    "2 green onions",
+                    "1 tbsp soy sauce",
+                    "1 tsp sesame oil",
+                    "1 tsp ginger (grated)",
+                    "Water for sealing"
+                ],
+                "steps": [
+                    "Mix pork, cabbage, onions, soy sauce, sesame oil, ginger.",
+                    "Place 1 tsp filling in wrapper center, wet edges, fold and pleat to seal.",
+                    "Boil for 5-6 min until floating, or pan-fry then steam.",
+                    "Serve with black vinegar and chili oil."
+                ]
+            }
+        ],
+        "Main Courses": [
+            {
+                "name": "Kung Pao Chicken",
+                "time": 25,
+                "ingredients": [
+                    "500g chicken breast (diced)",
+                    "1/2 cup roasted peanuts",
+                    "1 bell pepper (diced)",
+                    "2 tbsp soy sauce",
+                    "1 tbsp dark soy sauce",
+                    "1 tbsp hoisin sauce",
+                    "1 tbsp rice vinegar",
+                    "2 tsp sugar",
+                    "2 tbsp cornstarch",
+                    "3 dried red chilies",
+                    "4 cloves garlic (minced)",
+                    "2 tbsp vegetable oil"
+                ],
+                "steps": [
+                    "Marinate chicken with 1 tbsp soy sauce and 1 tbsp cornstarch. Set aside.",
+                    "Mix remaining soy sauces, hoisin, vinegar, sugar, and 1/2 cup water.",
+                    "Heat oil, add chilies and garlic. Add chicken, stir-fry until golden (3-4 min).",
+                    "Add bell pepper and sauce. Cook until thickened. Stir in peanuts. Serve with rice."
+                ]
+            },
+            {
+                "name": "Chicken Ramen",
+                "time": 40,
+                "ingredients": [
+                    "2 packs ramen noodles",
+                    "4 cups chicken broth",
+                    "2 chicken thighs (boneless, skinless)",
+                    "2 soft-boiled eggs (halved)",
+                    "2 tbsp soy sauce",
+                    "1 tbsp mirin",
+                    "1 tsp sesame oil",
+                    "2 green onions (sliced)",
+                    "1 sheet nori (cut into strips)"
+                ],
+                "steps": [
+                    "Simmer chicken thighs in broth with soy sauce and mirin for 20 min. Remove chicken, shred, set aside.",
+                    "Cook ramen noodles according to package, drain.",
+                    "Season broth with sesame oil. Divide noodles into bowls, pour broth, top with shredded chicken, egg halves, green onions, and nori. Serve hot."
+                ]
+            },
+            {
+                "name": "Mapo Tofu",
+                "time": 20,
+                "ingredients": [
+                    "400g soft tofu (cubed)",
+                    "150g ground pork",
+                    "2 tbsp doubanjiang (fermented bean paste)",
+                    "1 tbsp soy sauce",
+                    "1 tsp sugar",
+                    "1/2 tsp Sichuan peppercorn (ground)",
+                    "2 cloves garlic (minced)",
+                    "1 tsp ginger (minced)",
+                    "2 green onions (chopped)",
+                    "1 tbsp cornstarch mixed with 2 tbsp water",
+                    "2 tbsp vegetable oil"
+                ],
+                "steps": [
+                    "Blanch tofu in salted water for 2 min, drain.",
+                    "Heat oil, stir-fry pork until crispy. Add garlic, ginger, doubanjiang, cook 1 min.",
+                    "Add 1/2 cup water, soy sauce, sugar, and tofu. Simmer gently for 5 min.",
+                    "Stir in cornstarch slurry to thicken. Sprinkle Sichuan pepper and green onions. Serve with rice."
+                ]
+            },
+            {
+                "name": "Sushi Rolls (Maki)",
+                "time": 45,
+                "ingredients": [
+                    "2 cups sushi rice",
+                    "2 1/2 cups water",
+                    "1/4 cup rice vinegar",
+                    "2 tbsp sugar",
+                    "1 tsp salt",
+                    "4 nori sheets",
+                    "1 cucumber (julienned)",
+                    "1 avocado (sliced)",
+                    "100g cooked shrimp or imitation crab",
+                    "Soy sauce, wasabi, pickled ginger for serving"
+                ],
+                "steps": [
+                    "Rinse rice until water runs clear. Cook with water. Mix vinegar, sugar, salt; fold into cooked rice. Cool.",
+                    "Place nori on bamboo mat, spread rice thinly, leaving 1 cm at top edge.",
+                    "Arrange fillings in a line near bottom, roll tightly using mat. Moisten top edge to seal.",
+                    "Slice roll into 8 pieces with wet knife. Serve with soy sauce, wasabi, and ginger."
+                ]
+            },
+            {
+                "name": "Sweet and Sour Pork",
+                "time": 25,
+                "ingredients": [
+                    "500g pork tenderloin (cubed)",
+                    "1 bell pepper (diced)",
+                    "1/2 cup pineapple chunks",
+                    "1/2 cup ketchup",
+                    "1/4 cup rice vinegar",
+                    "1/4 cup sugar",
+                    "2 tbsp cornstarch",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "Coat pork cubes in cornstarch. Deep fry until golden and crispy.",
+                    "In a pan, mix ketchup, vinegar, sugar, 1/2 cup water. Simmer until thickened.",
+                    "Add bell pepper, pineapple, and fried pork. Toss to coat.",
+                    "Serve immediately with steamed rice."
+                ]
+            },
+            {
+                "name": "Beef and Broccoli",
+                "time": 20,
+                "ingredients": [
+                    "500g beef sirloin (thinly sliced)",
+                    "2 cups broccoli florets",
+                    "3 tbsp soy sauce",
+                    "2 tbsp oyster sauce",
+                    "1 tbsp cornstarch",
+                    "1 tsp sugar",
+                    "2 cloves garlic (minced)",
+                    "2 tbsp vegetable oil"
+                ],
+                "steps": [
+                    "Marinate beef with 1 tbsp soy sauce and 1 tbsp cornstarch.",
+                    "Blanch broccoli in boiling water for 2 min, drain.",
+                    "Heat oil, stir-fry garlic and beef until browned.",
+                    "Add soy sauce, oyster sauce, sugar, and 1/2 cup water.",
+                    "Add broccoli, cook for 2 min. Serve with rice."
+                ]
+            },
+            {
+                "name": "Fried Rice (Yangzhou)",
+                "time": 15,
+                "ingredients": [
+                    "3 cups cooked rice (day-old)",
+                    "2 eggs (scrambled)",
+                    "100g shrimp (cooked)",
+                    "1/2 cup ham or char siu (diced)",
+                    "1/2 cup frozen peas and carrots",
+                    "2 tbsp soy sauce",
+                    "2 green onions (chopped)",
+                    "2 tbsp oil"
+                ],
+                "steps": [
+                    "Heat oil in wok, add rice and break up clumps.",
+                    "Add shrimp, ham, peas, carrots. Stir-fry for 3 min.",
+                    "Add soy sauce and scrambled eggs. Toss well.",
+                    "Garnish with green onions. Serve hot."
+                ]
+            },
+            {
+                "name": "Japanese Curry",
+                "time": 30,
+                "ingredients": [
+                    "500g chicken or beef (cubed)",
+                    "2 carrots (chopped)",
+                    "2 potatoes (chopped)",
+                    "1 onion (chopped)",
+                    "4 cups water",
+                    "4 Japanese curry roux blocks",
+                    "Cooked rice for serving"
+                ],
+                "steps": [
+                    "Sauté meat and onion until browned. Add carrots and potatoes.",
+                    "Add water, bring to boil, simmer for 15 min until vegetables are soft.",
+                    "Add curry roux blocks, stir until melted and thickened.",
+                    "Serve over steamed rice."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Mochi",
+                "time": 30,
+                "ingredients": [
+                    "1 cup glutinous rice flour (mochiko)",
+                    "1/4 cup sugar",
+                    "3/4 cup water",
+                    "Cornstarch for dusting",
+                    "1/2 cup sweet red bean paste (anko)"
+                ],
+                "steps": [
+                    "Mix rice flour, sugar, and water in a microwave-safe bowl until smooth.",
+                    "Cover with plastic wrap, microwave for 1 min. Stir, microwave another 1 min until translucent and sticky.",
+                    "Dust work surface with cornstarch, transfer mochi dough, dust top. Flatten, cut into 8 pieces.",
+                    "Flatten each piece, place 1 tsp red bean paste in center, seal edges into a ball. Dust off excess cornstarch. Serve."
+                ]
+            },
+            {
+                "name": "Matcha Cheesecake",
+                "time": 50,
+                "ingredients": [
+                    "8 oz cream cheese (softened)",
+                    "1/2 cup sugar",
+                    "2 eggs",
+                    "1/2 cup heavy cream",
+                    "2 tbsp matcha powder",
+                    "1 tbsp cornstarch",
+                    "1 tsp vanilla extract"
+                ],
+                "steps": [
+                    "Preheat oven to 320°F (160°C).",
+                    "Beat cream cheese and sugar until smooth. Add eggs one at a time.",
+                    "Add heavy cream, matcha powder, cornstarch, vanilla. Mix until combined.",
+                    "Pour into greased pan. Bake in water bath for 35-40 min until set.",
+                    "Cool, refrigerate 3 hours before serving."
+                ]
+            },
+            {
+                "name": "Dorayaki",
+                "time": 25,
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "1/2 cup sugar",
+                    "2 eggs",
+                    "2 tbsp honey",
+                    "1/2 tsp baking soda",
+                    "2 tbsp water",
+                    "1/2 cup sweet red bean paste"
+                ],
+                "steps": [
+                    "Mix eggs, sugar, honey until pale. Sift in flour and baking soda, add water, mix well. Rest 15 min.",
+                    "Heat non-stick pan, pour small batter circles. Cook until bubbles appear, flip, cook 30 sec.",
+                    "Sandwich red bean paste between two pancakes. Serve warm."
+                ]
+            },
+            {
+                "name": "Bingsu (Korean Shaved Ice)",
+                "time": 10,
+                "ingredients": [
+                    "4 cups ice cubes",
+                    "1/2 cup sweetened condensed milk",
+                    "1/2 cup red beans (cooked & sweetened)",
+                    "1/2 cup mochi pieces",
+                    "Fresh fruit (strawberries, mango)",
+                    "1 tbsp matcha powder (optional)"
+                ],
+                "steps": [
+                    "Shave ice in a blender or ice shaver until fluffy like snow.",
+                    "Place shaved ice in a bowl, drizzle condensed milk.",
+                    "Top with red beans, mochi, fruit, and matcha powder. Serve immediately."
+                ]
+            },
+            {
+                "name": "Tangyuan (Glutinous Rice Balls)",
+                "time": 20,
+                "ingredients": [
+                    "1 cup glutinous rice flour",
+                    "1/3 cup warm water",
+                    "1/2 cup black sesame paste (or peanut paste)",
+                    "4 cups water",
+                    "1/2 cup sugar",
+                    "2 slices ginger"
+                ],
+                "steps": [
+                    "Mix rice flour and warm water to form a dough.",
+                    "Divide into small balls, flatten, place filling in center, seal and roll into balls.",
+                    "Boil water with sugar and ginger. Drop tangyuan in, cook until they float (3-4 min).",
+                    "Serve in warm ginger syrup."
+                ]
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Bubble Milk Tea",
+                "time": 20,
+                "ingredients": [
+                    "1/2 cup tapioca pearls",
+                    "2 bags black tea",
+                    "1 cup hot water",
+                    "1 cup milk",
+                    "2 tbsp brown sugar syrup",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Cook tapioca pearls according to package (boil 5 min, simmer 5 min, rest 5 min). Drain, rinse, toss with brown sugar syrup.",
+                    "Steep tea bags in hot water for 5 min. Remove bags, let tea cool.",
+                    "In a glass, add tapioca pearls, then ice, then tea, then milk. Stir well. Serve with a wide straw."
+                ]
+            },
+            {
+                "name": "Matcha Latte",
+                "time": 5,
+                "ingredients": [
+                    "1 tsp matcha powder",
+                    "2 tbsp hot water",
+                    "1 cup milk (hot or cold)",
+                    "1 tbsp sugar or honey",
+                    "Ice cubes (for iced version)"
+                ],
+                "steps": [
+                    "Whisk matcha powder and hot water until no lumps.",
+                    "Heat or froth milk with sugar.",
+                    "Pour matcha into milk, stir gently. For iced version, add ice cubes before pouring milk."
+                ]
+            },
+            {
+                "name": "Yuzu Honey Tea",
+                "time": 5,
+                "ingredients": [
+                    "2 tbsp yuzu marmalade",
+                    "1 tbsp honey",
+                    "1 cup hot water",
+                    "1 slice lemon"
+                ],
+                "steps": [
+                    "In a cup, mix yuzu marmalade and honey.",
+                    "Pour hot water, stir well.",
+                    "Garnish with lemon slice. Serve warm."
+                ]
+            },
+            {
+                "name": "Sikhye (Korean Sweet Rice Punch)",
+                "time": 15,
+                "ingredients": [
+                    "1 cup malt barley powder",
+                    "4 cups water",
+                    "1/2 cup cooked rice",
+                    "1/2 cup sugar",
+                    "Pine nuts for garnish"
+                ],
+                "steps": [
+                    "Soak malt barley in water for 2 hours, strain liquid.",
+                    "Mix malt liquid with cooked rice, keep warm at 140°F (60°C) for 4 hours.",
+                    "Strain liquid, add sugar, bring to a boil, cool.",
+                    "Serve chilled with pine nuts and a few grains of rice."
+                ]
+            },
+            {
+                "name": "Calpico Soda",
+                "time": 3,
+                "ingredients": [
+                    "1/2 cup Calpico concentrate",
+                    "1/2 cup club soda",
+                    "Ice cubes",
+                    "Lemon slice (optional)"
+                ],
+                "steps": [
+                    "Fill glass with ice cubes.",
+                    "Pour Calpico concentrate, then club soda.",
+                    "Stir gently, garnish with lemon slice. Serve immediately."
+                ]
+            }
+        ]
+    },
+    "South East Asian": {
+        "Snacks": [
+            {
+                "name": "Chicken Satay",
+                "time": 25,
+                "ingredients": [
+                    "500g chicken thigh (cut into strips)",
+                    "2 tbsp soy sauce",
+                    "2 tbsp brown sugar",
+                    "1 tbsp turmeric powder",
+                    "2 cloves garlic (minced)",
+                    "1 tbsp coriander powder",
+                    "1/2 cup coconut milk",
+                    "Peanut sauce for dipping"
+                ],
+                "steps": [
+                    "Mix soy sauce, sugar, turmeric, garlic, coriander, and coconut milk. Marinate chicken for 2 hours.",
+                    "Thread chicken onto bamboo skewers.",
+                    "Grill over medium heat for 3-4 min per side until cooked and slightly charred.",
+                    "Serve hot with peanut sauce."
+                ]
+            },
+            {
+                "name": "Thai Fish Cakes",
+                "time": 20,
+                "ingredients": [
+                    "400g white fish fillet (chopped)",
+                    "2 tbsp red curry paste",
+                    "1 egg",
+                    "2 tbsp fish sauce",
+                    "1 tsp sugar",
+                    "5 kaffir lime leaves (finely sliced)",
+                    "1/2 cup green beans (sliced thin)",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "In a food processor, blend fish, curry paste, egg, fish sauce, sugar until smooth.",
+                    "Transfer to a bowl, fold in lime leaves and green beans.",
+                    "Shape into small patties. Fry in hot oil until golden brown (2-3 min per side).",
+                    "Serve with sweet chili sauce and cucumber relish."
+                ]
+            },
+            {
+                "name": "Prawn Crackers (Krupuk)",
+                "time": 5,
+                "ingredients": [
+                    "Raw prawn crackers (store-bought)",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Heat oil to 375°F (190°C).",
+                    "Drop in a few raw crackers at a time—they expand instantly.",
+                    "Remove within 2-3 seconds, drain on paper towel.",
+                    "Serve as a crunchy snack or side."
+                ]
+            },
+            {
+                "name": "Lumpia (Filipino Spring Rolls)",
+                "time": 30,
+                "ingredients": [
+                    "20 lumpia wrappers",
+                    "250g ground pork",
+                    "1 cup grated carrot",
+                    "1 cup finely chopped cabbage",
+                    "1/2 cup chopped green beans",
+                    "2 tbsp soy sauce",
+                    "1 tsp black pepper",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "Sauté pork until browned. Add vegetables and soy sauce, cook until wilted. Cool.",
+                    "Place 1 tbsp filling on wrapper, fold sides, roll tightly, seal with water.",
+                    "Deep fry until golden brown and crispy.",
+                    "Serve with sweet chili sauce or vinegar dip."
+                ]
+            },
+            {
+                "name": "Thai Spring Rolls (Fresh)",
+                "time": 20,
+                "ingredients": [
+                    "8 rice paper wrappers",
+                    "1 cup cooked shrimp (sliced)",
+                    "1 cup rice vermicelli (cooked)",
+                    "1/2 cup mint leaves",
+                    "1/2 cup cilantro",
+                    "1 cucumber (julienned)",
+                    "1 carrot (julienned)",
+                    "Peanut dipping sauce"
+                ],
+                "steps": [
+                    "Dip rice paper in warm water for 10 seconds until soft.",
+                    "Lay flat, arrange shrimp, vermicelli, herbs, and vegetables in center.",
+                    "Fold sides over filling and roll tightly.",
+                    "Serve with peanut dipping sauce."
+                ]
+            },
+            {
+                "name": "Otak Otak (Grilled Fish Paste)",
+                "time": 25,
+                "ingredients": [
+                    "400g white fish paste",
+                    "1/2 cup coconut milk",
+                    "2 tbsp red curry paste",
+                    "2 eggs",
+                    "1 tbsp fish sauce",
+                    "1 tsp sugar",
+                    "5 kaffir lime leaves (sliced)",
+                    "Banana leaves for wrapping"
+                ],
+                "steps": [
+                    "Mix fish paste, coconut milk, curry paste, eggs, fish sauce, sugar, lime leaves.",
+                    "Place spoonfuls on banana leaves, fold into parcels.",
+                    "Grill or steam for 15 min.",
+                    "Serve warm with rice."
+                ]
+            },
+            {
+                "name": "Som Tam (Green Papaya Salad)",
+                "time": 15,
+                "ingredients": [
+                    "2 cups green papaya (shredded)",
+                    "1 cup cherry tomatoes",
+                    "2 tbsp fish sauce",
+                    "2 tbsp lime juice",
+                    "1 tbsp palm sugar",
+                    "2 green chilies",
+                    "2 cloves garlic",
+                    "1/4 cup peanuts (crushed)",
+                    "1/4 cup dried shrimp"
+                ],
+                "steps": [
+                    "In a mortar, pound garlic and chilies.",
+                    "Add fish sauce, lime juice, palm sugar. Mix well.",
+                    "Add papaya, tomatoes, dried shrimp. Toss to combine.",
+                    "Top with crushed peanuts. Serve as a snack or side."
+                ]
+            },
+            {
+                "name": "Vietnamese Summer Rolls (Gỏi Cuốn)",
+                "time": 20,
+                "ingredients": [
+                    "8 rice paper wrappers",
+                    "200g cooked shrimp or pork",
+                    "1 cup rice vermicelli",
+                    "1 cup lettuce",
+                    "1/2 cup mint",
+                    "1/2 cup cilantro",
+                    "1 cucumber (julienned)",
+                    "Peanut hoisin sauce"
+                ],
+                "steps": [
+                    "Dip rice paper in warm water briefly.",
+                    "Layer lettuce, vermicelli, herbs, protein, cucumber.",
+                    "Fold sides and roll tightly.",
+                    "Serve with peanut hoisin dipping sauce."
+                ]
+            }
+        ],
+        "Main Courses": [
+            {
+                "name": "Pad Thai",
+                "time": 20,
+                "ingredients": [
+                    "200g rice noodles",
+                    "200g shrimp (or tofu)",
+                    "2 eggs",
+                    "2 tbsp tamarind paste",
+                    "2 tbsp fish sauce",
+                    "1 tbsp palm sugar",
+                    "1/2 cup bean sprouts",
+                    "1/4 cup crushed peanuts",
+                    "2 green onions (chopped)",
+                    "2 cloves garlic (minced)",
+                    "Oil for stir-frying"
+                ],
+                "steps": [
+                    "Soak rice noodles in warm water for 20 min, drain.",
+                    "Mix tamarind paste, fish sauce, and palm sugar to make sauce.",
+                    "Heat oil, sauté garlic, add shrimp and cook until pink. Push to side.",
+                    "Add eggs, scramble, then add noodles and sauce. Toss well.",
+                    "Add bean sprouts and green onions. Serve topped with peanuts and lime wedges."
+                ]
+            },
+            {
+                "name": "Nasi Goreng",
+                "time": 15,
+                "ingredients": [
+                    "3 cups cooked rice (day-old)",
+                    "200g chicken (diced)",
+                    "2 eggs",
+                    "2 tbsp sweet soy sauce (kecap manis)",
+                    "2 tbsp soy sauce",
+                    "1 tsp shrimp paste (optional)",
+                    "2 cloves garlic (minced)",
+                    "2 shallots (chopped)",
+                    "1 red chili (sliced)",
+                    "2 green onions (chopped)",
+                    "Oil"
+                ],
+                "steps": [
+                    "Heat oil, fry eggs sunny-side up, set aside.",
+                    "In same pan, sauté garlic, shallots, chili until fragrant. Add chicken, cook until done.",
+                    "Add rice, sweet soy sauce, soy sauce, shrimp paste. Stir-fry until well combined.",
+                    "Garnish with green onions and fried egg. Serve with prawn crackers."
+                ]
+            },
+            {
+                "name": "Beef Rendang",
+                "time": 90,
+                "ingredients": [
+                    "1 kg beef brisket (cut into chunks)",
+                    "2 cans coconut milk",
+                    "5 kaffir lime leaves",
+                    "2 lemongrass stalks (bruised)",
+                    "Spice paste: 10 shallots, 5 garlic cloves, 5 red chilies, 2 inches ginger, 2 inches galangal, 1 tsp turmeric powder",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Blend spice paste ingredients until smooth.",
+                    "In a heavy pot, toast spice paste until fragrant. Add beef and cook until browned.",
+                    "Add coconut milk, lime leaves, lemongrass, and salt. Bring to a boil, then simmer on low heat.",
+                    "Cook uncovered, stirring occasionally, until coconut milk evaporates and beef is very tender (about 2 hours).",
+                    "The rendang should be dark brown and dry. Serve with rice."
+                ]
+            },
+            {
+                "name": "Tom Yum Soup",
+                "time": 25,
+                "ingredients": [
+                    "4 cups chicken or vegetable broth",
+                    "200g shrimp (peeled)",
+                    "200g mushrooms (sliced)",
+                    "2 lemongrass stalks (cut into 2-inch pieces and smashed)",
+                    "3 kaffir lime leaves (torn)",
+                    "3 red chilies (lightly crushed)",
+                    "3 tbsp fish sauce",
+                    "2 tbsp lime juice",
+                    "1 tsp sugar",
+                    "Fresh cilantro for garnish"
+                ],
+                "steps": [
+                    "Bring broth to a boil. Add lemongrass, lime leaves, and chilies. Simmer for 5 min.",
+                    "Add mushrooms and shrimp, cook until shrimp is pink (2-3 min).",
+                    "Season with fish sauce, lime juice, and sugar. Adjust to taste.",
+                    "Garnish with cilantro. Serve hot."
+                ]
+            },
+            {
+                "name": "Green Curry Chicken",
+                "time": 25,
+                "ingredients": [
+                    "500g chicken thigh (sliced)",
+                    "2 tbsp green curry paste",
+                    "1 can coconut milk",
+                    "1 cup Thai eggplants (quartered)",
+                    "1 cup bamboo shoots",
+                    "5 kaffir lime leaves",
+                    "2 tbsp fish sauce",
+                    "1 tbsp palm sugar",
+                    "1/2 cup Thai basil leaves"
+                ],
+                "steps": [
+                    "Heat coconut milk until it separates oil. Add green curry paste, fry until fragrant.",
+                    "Add chicken, cook until white. Add remaining coconut milk and 1/2 cup water.",
+                    "Add eggplants, bamboo shoots, lime leaves. Simmer for 10 min.",
+                    "Season with fish sauce and palm sugar. Stir in basil leaves just before serving.",
+                    "Serve with jasmine rice."
+                ]
+            },
+            {
+                "name": "Hainanese Chicken Rice",
+                "time": 60,
+                "ingredients": [
+                    "1 whole chicken (about 3 lbs)",
+                    "3 cups jasmine rice",
+                    "4 cups chicken broth (from poaching)",
+                    "3 cloves garlic (minced)",
+                    "2 shallots (minced)",
+                    "1 inch ginger (minced)",
+                    "2 tbsp sesame oil",
+                    "2 tbsp soy sauce",
+                    "Cucumber slices for garnish"
+                ],
+                "steps": [
+                    "Poach whole chicken in water with ginger and pandan until cooked (30-40 min). Shock in ice bath.",
+                    "Toast rice in oil with garlic, shallots, ginger. Add chicken broth, cook until fluffy.",
+                    "Chop chicken into pieces, drizzle with sesame oil and soy sauce.",
+                    "Serve with rice, cucumber, and chili-ginger dipping sauce."
+                ]
+            },
+            {
+                "name": "Pineapple Fried Rice",
+                "time": 15,
+                "ingredients": [
+                    "3 cups cooked rice",
+                    "1 cup pineapple chunks",
+                    "100g shrimp or chicken",
+                    "1/2 cup cashews",
+                    "1/2 cup raisins",
+                    "2 tbsp fish sauce",
+                    "1 tbsp curry powder",
+                    "2 eggs (scrambled)",
+                    "2 green onions (chopped)",
+                    "Oil"
+                ],
+                "steps": [
+                    "Heat oil, add protein and cook until done.",
+                    "Add rice, curry powder, fish sauce. Stir-fry for 2 min.",
+                    "Add pineapple, cashews, raisins, scrambled eggs.",
+                    "Garnish with green onions. Serve in hollowed pineapple half if desired."
+                ]
+            },
+            {
+                "name": "Laksa (Spicy Noodle Soup)",
+                "time": 40,
+                "ingredients": [
+                    "200g rice noodles",
+                    "200g shrimp",
+                    "200g fish cakes (sliced)",
+                    "1 can coconut milk",
+                    "3 tbsp laksa paste",
+                    "4 cups chicken broth",
+                    "Bean sprouts",
+                    "Hard-boiled egg (halved)",
+                    "Coriander & mint for garnish"
+                ],
+                "steps": [
+                    "Sauté laksa paste until fragrant. Add chicken broth, bring to boil.",
+                    "Add coconut milk, shrimp, fish cakes. Simmer for 5 min.",
+                    "Cook noodles according to package, place in bowls.",
+                    "Pour broth over noodles, top with bean sprouts, egg, herbs. Serve hot."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Mango Sticky Rice",
+                "time": 30,
+                "ingredients": [
+                    "1 cup glutinous rice",
+                    "1 cup coconut milk",
+                    "1/2 cup sugar",
+                    "1/4 tsp salt",
+                    "2 ripe mangoes (sliced)",
+                    "Toasted sesame seeds for garnish"
+                ],
+                "steps": [
+                    "Soak sticky rice for 4 hours, then steam for 20 min.",
+                    "Heat coconut milk, sugar, and salt until sugar dissolves. Reserve some for topping.",
+                    "Pour the coconut mixture over the cooked rice, let sit for 15 min to absorb.",
+                    "Serve rice alongside mango slices, drizzle with reserved coconut milk, sprinkle sesame seeds."
+                ]
+            },
+            {
+                "name": "Thai Roti with Condensed Milk",
+                "time": 15,
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1/2 tsp salt",
+                    "1 tbsp sugar",
+                    "1/2 cup warm water",
+                    "2 tbsp melted butter",
+                    "Oil for frying",
+                    "Sweetened condensed milk",
+                    "Sugar for sprinkling"
+                ],
+                "steps": [
+                    "Mix flour, salt, sugar. Add warm water and melted butter, knead into soft dough. Rest 30 min.",
+                    "Divide dough into balls, flatten into thin circles.",
+                    "Heat oil in pan, fry roti until golden and crispy on both sides.",
+                    "Drizzle condensed milk, sprinkle sugar. Serve hot."
+                ]
+            },
+            {
+                "name": "Cendol",
+                "time": 20,
+                "ingredients": [
+                    "1 cup rice flour",
+                    "1/2 cup pandan juice",
+                    "1 cup water",
+                    "2 cups coconut milk",
+                    "1/2 cup palm sugar syrup",
+                    "Ice cubes",
+                    "Red beans (optional)"
+                ],
+                "steps": [
+                    "Mix rice flour, pandan juice, and water. Cook until thick and gelatinous.",
+                    "Press through a sieve or cendol maker into iced water to form green droplets.",
+                    "In a bowl, add cendol droplets, coconut milk, palm sugar syrup, and ice cubes.",
+                    "Top with red beans if desired. Serve cold."
+                ]
+            },
+            {
+                "name": "Khao Niao Sangkhaya (Sticky Rice with Custard)",
+                "time": 25,
+                "ingredients": [
+                    "1 cup glutinous rice (cooked)",
+                    "1/2 cup coconut milk",
+                    "2 eggs",
+                    "1/2 cup palm sugar",
+                    "1/4 tsp salt",
+                    "1/2 cup coconut cream"
+                ],
+                "steps": [
+                    "Press cooked sticky rice into a bowl, invert onto plate.",
+                    "Whisk eggs, coconut milk, palm sugar, salt. Steam in a bowl until custard sets (15 min).",
+                    "Pour coconut cream over custard, steam 5 more min.",
+                    "Serve custard alongside sticky rice."
+                ]
+            },
+            {
+                "name": "Banh Flan (Vietnamese Caramel Flan)",
+                "time": 40,
+                "ingredients": [
+                    "1/2 cup sugar",
+                    "4 eggs",
+                    "1 can condensed milk",
+                    "1 1/2 cups warm water",
+                    "1 tsp vanilla extract"
+                ],
+                "steps": [
+                    "Melt 1/2 cup sugar in a pan until golden brown. Pour into ramekins to coat bottom.",
+                    "Blend eggs, condensed milk, warm water, and vanilla.",
+                    "Strain mixture into ramekins over caramel. Cover with foil.",
+                    "Steam for 25-30 min until set. Cool, refrigerate 2 hours. Invert to serve."
+                ]
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Thai Iced Tea",
+                "time": 10,
+                "ingredients": [
+                    "4 tbsp Thai tea mix",
+                    "2 cups hot water",
+                    "3 tbsp sugar",
+                    "1/2 cup evaporated milk",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Steep Thai tea mix in hot water for 5 min. Strain into a pitcher.",
+                    "Stir in sugar until dissolved. Let cool.",
+                    "Fill glasses with ice, pour tea, top with evaporated milk. Stir and serve."
+                ]
+            },
+            {
+                "name": "Bandung (Rose Milk)",
+                "time": 3,
+                "ingredients": [
+                    "1 cup evaporated milk",
+                    "1/2 cup rose syrup",
+                    "1 1/2 cups cold water",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "In a pitcher, mix rose syrup, evaporated milk, and water.",
+                    "Fill glasses with ice cubes, pour bandung. Serve immediately."
+                ]
+            },
+            {
+                "name": "Es Campur (Indonesian Mixed Ice)",
+                "time": 10,
+                "ingredients": [
+                    "1 cup shaved ice",
+                    "1/2 cup rose syrup",
+                    "1/4 cup condensed milk",
+                    "1/4 cup grass jelly (cincau)",
+                    "1/4 cup jackfruit (chopped)",
+                    "1/4 cup avocado (diced)",
+                    "1/4 cup palm seeds (kolang-kaling)"
+                ],
+                "steps": [
+                    "In a glass, add all fruit, jelly, and palm seeds.",
+                    "Top with shaved ice, drizzle rose syrup and condensed milk.",
+                    "Serve immediately with a spoon and straw."
+                ]
+            },
+            {
+                "name": "Soursop Juice",
+                "time": 5,
+                "ingredients": [
+                    "2 cups soursop pulp (fresh or frozen)",
+                    "1/2 cup condensed milk",
+                    "2 cups cold water",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Blend soursop pulp, condensed milk, and water until smooth.",
+                    "Strain if desired. Pour over ice cubes. Serve cold."
+                ]
+            },
+            {
+                "name": "Pandan Iced Tea",
+                "time": 10,
+                "ingredients": [
+                    "4 pandan leaves (knotted)",
+                    "2 cups water",
+                    "2 tbsp sugar",
+                    "2 bags green tea",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Boil pandan leaves in water for 5 min. Add tea bags, steep 3 min.",
+                    "Remove tea bags and pandan. Stir in sugar, let cool.",
+                    "Pour over ice cubes. Serve chilled."
+                ]
+            }
+        ]
+    },
+    "West/Central Asian": {
+        "Snacks": [
+            {
+                "name": "Falafel",
+                "time": 25,
+                "ingredients": [
+                    "2 cups dried chickpeas (soaked overnight)",
+                    "1/2 cup fresh parsley",
+                    "1/2 cup fresh cilantro",
+                    "1 onion (chopped)",
+                    "4 cloves garlic",
+                    "1 tbsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp baking powder",
+                    "Salt to taste",
+                    "Oil for deep frying"
+                ],
+                "steps": [
+                    "Drain chickpeas. In food processor, combine chickpeas, herbs, onion, garlic, spices, and salt. Pulse until coarse meal (not puree).",
+                    "Stir in baking powder. Refrigerate for 1 hour.",
+                    "Form into small balls or patties.",
+                    "Deep fry at 350°F (175°C) until golden brown (3-4 min). Serve with tahini sauce."
+                ]
+            },
+            {
+                "name": "Hummus",
+                "time": 10,
+                "ingredients": [
+                    "1 can chickpeas (rinsed)",
+                    "1/4 cup tahini",
+                    "1/4 cup lemon juice",
+                    "2 cloves garlic",
+                    "3 tbsp olive oil",
+                    "1/2 tsp cumin",
+                    "Salt to taste",
+                    "Water as needed"
+                ],
+                "steps": [
+                    "Blend chickpeas, tahini, lemon juice, garlic, cumin, and salt in a food processor.",
+                    "Add olive oil and blend. Gradually add water until smooth and creamy.",
+                    "Serve drizzled with olive oil and sprinkled with paprika."
+                ]
+            },
+            {
+                "name": "Baba Ghanoush",
+                "time": 20,
+                "ingredients": [
+                    "2 large eggplants",
+                    "1/4 cup tahini",
+                    "1/4 cup lemon juice",
+                    "2 cloves garlic",
+                    "3 tbsp olive oil",
+                    "1/2 tsp cumin",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Roast eggplants over open flame or in oven until skin is charred and flesh is soft.",
+                    "Peel off skin, drain excess liquid.",
+                    "Blend eggplant flesh with tahini, lemon juice, garlic, cumin, salt.",
+                    "Drizzle with olive oil. Serve with pita bread."
+                ]
+            },
+            {
+                "name": "Zatar Manakish",
+                "time": 20,
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1 tsp instant yeast",
+                    "1/2 tsp salt",
+                    "3/4 cup warm water",
+                    "2 tbsp olive oil",
+                    "1/2 cup zatar spice mix",
+                    "1/4 cup olive oil (for topping)"
+                ],
+                "steps": [
+                    "Mix flour, yeast, salt. Add water and 2 tbsp oil, knead into dough. Rest 1 hour.",
+                    "Divide dough into balls, roll out into flat circles.",
+                    "Mix zatar with 1/4 cup olive oil, spread on dough.",
+                    "Bake at 450°F (230°C) for 8-10 min until edges are crisp."
+                ]
+            },
+            {
+                "name": "Kibbeh",
+                "time": 45,
+                "ingredients": [
+                    "2 cups fine bulgur wheat",
+                    "500g ground lamb or beef",
+                    "1 onion (grated)",
+                    "1 tsp cumin",
+                    "1 tsp allspice",
+                    "Salt & pepper",
+                    "Oil for frying"
+                ],
+                "steps": [
+                    "Soak bulgur in water for 30 min, squeeze dry.",
+                    "Mix bulgur with half the meat, onion, spices to make outer shell.",
+                    "Sauté remaining meat with more onions and spices for filling.",
+                    "Form bulgur mixture into balls, stuff with filling, seal.",
+                    "Deep fry until golden brown. Serve with yogurt sauce."
+                ]
+            },
+            {
+                "name": "Sambusak (Meat Pies)",
+                "time": 35,
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1/2 cup yogurt",
+                    "1/4 cup oil",
+                    "1 tsp baking powder",
+                    "300g ground beef",
+                    "1 onion (chopped)",
+                    "1 tsp allspice",
+                    "Salt & pepper",
+                    "Egg wash"
+                ],
+                "steps": [
+                    "Mix flour, yogurt, oil, baking powder, salt into dough. Rest 30 min.",
+                    "Sauté meat and onion with spices until cooked. Cool.",
+                    "Roll dough thin, cut into circles. Place filling in center, fold into half-moons, seal edges with fork.",
+                    "Brush with egg wash, bake at 375°F (190°C) for 20 min until golden."
+                ]
+            },
+            {
+                "name": "Labneh Balls",
+                "time": 10,
+                "ingredients": [
+                    "2 cups labneh (strained yogurt)",
+                    "1/2 cup olive oil",
+                    "1 tsp dried mint",
+                    "1 tsp za'atar",
+                    "1 tsp red pepper flakes"
+                ],
+                "steps": [
+                    "Roll labneh into small balls.",
+                    "Place in a jar, cover with olive oil.",
+                    "Add herbs and spices. Refrigerate for 24 hours.",
+                    "Serve with pita bread as a dip."
+                ]
+            },
+            {
+                "name": "Muhammara",
+                "time": 10,
+                "ingredients": [
+                    "2 roasted red peppers",
+                    "1 cup walnuts",
+                    "1/2 cup breadcrumbs",
+                    "2 tbsp pomegranate molasses",
+                    "2 tbsp olive oil",
+                    "1 tsp cumin",
+                    "1 tsp red pepper flakes",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Blend all ingredients until smooth but slightly chunky.",
+                    "Adjust seasoning. Drizzle with olive oil before serving.",
+                    "Serve with pita or vegetable sticks."
+                ]
+            }
+        ],
+        "Main Courses": [
+            {
+                "name": "Lamb Kabab",
+                "time": 30,
+                "ingredients": [
+                    "500g ground lamb",
+                    "1 onion (grated)",
+                    "2 cloves garlic (minced)",
+                    "1/4 cup fresh parsley (chopped)",
+                    "1 tsp cumin",
+                    "1 tsp coriander",
+                    "1/2 tsp cinnamon",
+                    "Salt & pepper to taste"
+                ],
+                "steps": [
+                    "Mix all ingredients together until well combined.",
+                    "Form into long sausages around skewers.",
+                    "Grill over medium-high heat for 10-12 min, turning occasionally, until charred and cooked through.",
+                    "Serve with flatbread and yogurt sauce."
+                ]
+            },
+            {
+                "name": "Shakshuka",
+                "time": 20,
+                "ingredients": [
+                    "4 eggs",
+                    "1 onion (chopped)",
+                    "1 red bell pepper (chopped)",
+                    "4 tomatoes (chopped or 1 can crushed tomatoes)",
+                    "3 cloves garlic (minced)",
+                    "1 tsp paprika",
+                    "1/2 tsp cumin",
+                    "1/4 tsp cayenne",
+                    "Salt & pepper",
+                    "Olive oil",
+                    "Fresh parsley for garnish"
+                ],
+                "steps": [
+                    "Heat oil in a skillet, sauté onion and bell pepper until soft (5 min).",
+                    "Add garlic, paprika, cumin, cayenne, cook 1 min. Add tomatoes, salt, pepper. Simmer 10 min.",
+                    "Make 4 wells in sauce, crack an egg into each. Cover and cook until eggs are set (5-7 min).",
+                    "Garnish with parsley. Serve with bread."
+                ]
+            },
+            {
+                "name": "Chicken Shawarma",
+                "time": 40,
+                "ingredients": [
+                    "500g chicken thighs",
+                    "3 tbsp yogurt",
+                    "2 tbsp lemon juice",
+                    "2 tbsp olive oil",
+                    "3 cloves garlic (minced)",
+                    "1 tsp cumin",
+                    "1 tsp paprika",
+                    "1/2 tsp turmeric",
+                    "1/2 tsp cinnamon",
+                    "Salt & pepper",
+                    "Pita bread, tahini sauce, tomatoes, cucumbers for serving"
+                ],
+                "steps": [
+                    "Mix yogurt, lemon juice, oil, garlic, and spices. Marinate chicken for 2 hours.",
+                    "Pan-sear or grill chicken until cooked and charred. Slice thinly.",
+                    "Warm pita, fill with chicken, tahini, and fresh veggies. Serve."
+                ]
+            },
+            {
+                "name": "Kebab Koobideh",
+                "time": 25,
+                "ingredients": [
+                    "500g ground lamb or beef",
+                    "1 onion (grated and squeezed dry)",
+                    "1 tsp sumac",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper",
+                    "1 tbsp butter (melted)"
+                ],
+                "steps": [
+                    "Mix all ingredients well. Knead for 5 min until paste-like.",
+                    "Form around flat skewers into long sausages.",
+                    "Grill over hot coals for 5-7 min per side.",
+                    "Serve with saffron rice and grilled tomatoes."
+                ]
+            },
+            {
+                "name": "Dolma (Stuffed Grape Leaves)",
+                "time": 60,
+                "ingredients": [
+                    "1 jar grape leaves (rinsed)",
+                    "1 cup rice",
+                    "250g ground lamb (optional)",
+                    "1 onion (chopped)",
+                    "1/4 cup pine nuts",
+                    "1/4 cup currants",
+                    "1/4 cup fresh dill (chopped)",
+                    "1/4 cup fresh mint (chopped)",
+                    "1/2 cup olive oil",
+                    "1 lemon (sliced)",
+                    "Salt & pepper"
+                ],
+                "steps": [
+                    "Sauté onion and pine nuts. Add rice, currants, herbs, lamb if using. Season.",
+                    "Place 1 tbsp filling on a grape leaf, fold sides, roll tightly.",
+                    "Layer dolmas in a pot, place lemon slices on top, add water and olive oil to cover.",
+                    "Simmer covered for 45 min. Serve warm or at room temperature."
+                ]
+            },
+            {
+                "name": "Tabbouleh Salad",
+                "time": 15,
+                "ingredients": [
+                    "1 cup fine bulgur wheat",
+                    "2 cups flat-leaf parsley (finely chopped)",
+                    "1/2 cup mint (chopped)",
+                    "4 tomatoes (diced)",
+                    "1 cucumber (diced)",
+                    "1/2 cup lemon juice",
+                    "1/2 cup olive oil",
+                    "Salt to taste"
+                ],
+                "steps": [
+                    "Soak bulgur in water for 20 min, squeeze dry.",
+                    "Mix bulgur, parsley, mint, tomatoes, cucumber.",
+                    "Dress with lemon juice, olive oil, salt.",
+                    "Serve as a side dish with pita."
+                ]
+            },
+            {
+                "name": "Fatteh",
+                "time": 25,
+                "ingredients": [
+                    "2 pita breads (toasted and broken)",
+                    "1 can chickpeas (warm)",
+                    "1 cup yogurt",
+                    "2 tbsp tahini",
+                    "2 cloves garlic (crushed)",
+                    "1/4 cup pine nuts (toasted)",
+                    "Paprika & parsley for garnish"
+                ],
+                "steps": [
+                    "Mix yogurt, tahini, garlic, and salt.",
+                    "Layer toasted pita pieces in a dish, top with warm chickpeas.",
+                    "Pour yogurt sauce over, sprinkle pine nuts, paprika, parsley.",
+                    "Serve immediately."
+                ]
+            },
+            {
+                "name": "Mansaf (Jordanian Lamb with Rice)",
+                "time": 90,
+                "ingredients": [
+                    "1 kg lamb shoulder (bone-in)",
+                    "2 cups jameed (dried yogurt) or yogurt",
+                    "3 cups basmati rice",
+                    "1/4 cup pine nuts",
+                    "1/4 cup almonds",
+                    "Pita bread for serving"
+                ],
+                "steps": [
+                    "Simmer lamb in water until tender (1.5 hours). Remove lamb, reserve broth.",
+                    "Dissolve jameed in warm broth, simmer until thick.",
+                    "Cook rice in salted water. Toast nuts.",
+                    "Layer pita on a platter, then rice, then lamb, then yogurt sauce.",
+                    "Top with nuts. Serve traditionally with hands."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Baklava",
+                "time": 60,
+                "ingredients": [
+                    "1 package phyllo dough (thawed)",
+                    "2 cups walnuts (finely chopped)",
+                    "1 cup unsalted butter (melted)",
+                    "1 cup sugar",
+                    "1 cup water",
+                    "1/2 cup honey",
+                    "1 tsp cinnamon",
+                    "1 tsp vanilla extract"
+                ],
+                "steps": [
+                    "Preheat oven to 350°F (175°C). Butter a baking dish.",
+                    "Mix walnuts and cinnamon. Layer 10 sheets of phyllo, brushing each with butter. Sprinkle nut mixture.",
+                    "Repeat layers, ending with 10 sheets of phyllo on top. Cut into diamonds.",
+                    "Bake for 45 min until golden. Meanwhile, boil sugar, water, honey, vanilla for 10 min.",
+                    "Pour syrup over hot baklava. Let cool completely before serving."
+                ]
+            },
+            {
+                "name": "Kunafa",
+                "time": 45,
+                "ingredients": [
+                    "1 box kunafa dough (shredded phyllo)",
+                    "1 cup unsalted butter (melted)",
+                    "2 cups mozzarella cheese (shredded)",
+                    "1 cup ricotta cheese",
+                    "1/2 cup sugar",
+                    "1/2 cup water",
+                    "1 tsp rose water",
+                    "Pistachios for garnish"
+                ],
+                "steps": [
+                    "Shred kunafa dough, mix with melted butter.",
+                    "Press half the dough into a greased pan. Layer with mozzarella and ricotta.",
+                    "Top with remaining dough, press firmly. Bake at 375°F (190°C) for 25-30 min until golden.",
+                    "Boil sugar, water, rose water for 10 min to make syrup.",
+                    "Pour syrup over hot kunafa. Garnish with pistachios. Serve warm."
+                ]
+            },
+            {
+                "name": "Basbousa (Semolina Cake)",
+                "time": 40,
+                "ingredients": [
+                    "1 cup semolina",
+                    "1 cup yogurt",
+                    "1/2 cup sugar",
+                    "1/2 cup melted butter",
+                    "2 eggs",
+                    "1 tsp baking powder",
+                    "1/2 cup coconut flakes (optional)",
+                    "For syrup: 1 cup sugar, 1/2 cup water, 1 tbsp lemon juice"
+                ],
+                "steps": [
+                    "Mix semolina, sugar, baking powder, coconut. Add yogurt, butter, eggs. Mix well.",
+                    "Pour into greased pan, bake at 350°F (175°C) for 25-30 min until golden.",
+                    "Boil syrup ingredients for 10 min. Pour over hot basbousa.",
+                    "Let absorb syrup for 2 hours. Cut into diamonds."
+                ]
+            },
+            {
+                "name": "Halva (Sesame Halva)",
+                "time": 15,
+                "ingredients": [
+                    "2 cups tahini (sesame paste)",
+                    "2 cups sugar",
+                    "1 cup water",
+                    "1 tsp vanilla",
+                    "1/2 cup pistachios or walnuts"
+                ],
+                "steps": [
+                    "Boil sugar and water until 240°F (115°C) soft ball stage.",
+                    "Slowly pour syrup into tahini while mixing with a wooden spoon.",
+                    "Add vanilla and nuts, mix until it pulls away from sides.",
+                    "Press into a loaf pan lined with plastic wrap. Cool completely, slice."
+                ]
+            },
+            {
+                "name": "Rice Pudding (Roz bel Laban)",
+                "time": 30,
+                "ingredients": [
+                    "1/2 cup white rice",
+                    "4 cups milk",
+                    "1 cup sugar",
+                    "1 tbsp rose water",
+                    "1/4 cup cornstarch (dissolved in 1/2 cup water)",
+                    "Ground cinnamon for topping"
+                ],
+                "steps": [
+                    "Simmer rice and milk until rice is very soft (20 min).",
+                    "Add sugar and rose water. Stir in cornstarch mixture, cook until thickened.",
+                    "Pour into bowls, chill 2 hours. Dust with cinnamon before serving."
+                ]
+            }
+        ],
+        "Drinks": [
+            {
+                "name": "Mint Ayran",
+                "time": 5,
+                "ingredients": [
+                    "2 cups plain yogurt",
+                    "1 cup cold water",
+                    "1/2 tsp salt",
+                    "10 fresh mint leaves",
+                    "Ice cubes"
+                ],
+                "steps": [
+                    "Blend all ingredients until frothy.",
+                    "Pour into glasses, garnish with mint sprig. Serve chilled."
+                ]
+            },
+            {
+                "name": "Turkish Coffee",
+                "time": 8,
+                "ingredients": [
+                    "2 tbsp finely ground Turkish coffee",
+                    "1 cup cold water",
+                    "2 tbsp sugar (optional)",
+                    "Cardamom pod (optional)"
+                ],
+                "steps": [
+                    "In a cezve (small pot), add coffee, water, sugar, and cardamom.",
+                    "Stir gently, heat until foam rises. Remove foam, repeat twice.",
+                    "Pour into small cups, let grounds settle for 1 min. Serve."
+                ]
+            },
+            {
+                "name": "Jallab",
+                "time": 5,
+                "ingredients": [
+                    "2 tbsp jallab syrup (made from carob, dates, rose water)",
+                    "1 cup cold water",
+                    "Ice cubes",
+                    "1 tbsp pine nuts",
+                    "1 tbsp raisins"
+                ],
+                "steps": [
+                    "In a glass, mix jallab syrup and water.",
+                    "Add ice cubes, pine nuts, and raisins. Serve immediately."
+                ]
+            },
+            {
+                "name": "Qamar Al Din (Apricot Juice)",
+                "time": 10,
+                "ingredients": [
+                    "4 dried apricot paste sheets (qamar al din)",
+                    "2 cups warm water",
+                    "2 tbsp sugar (optional)",
+                    "Ice cubes",
+                    "Orange blossom water (optional)"
+                ],
+                "steps": [
+                    "Tear apricot sheets into pieces, soak in warm water for 30 min.",
+                    "Blend until smooth, add sugar and orange blossom water if desired.",
+                    "Strain, pour over ice cubes. Serve cold."
+                ]
+            },
+            {
+                "name": "Sahlab (Salep Drink)",
+                "time": 10,
+                "ingredients": [
+                    "2 cups milk",
+                    "1 tbsp sahlab powder (orchid root starch)",
+                    "2 tbsp sugar",
+                    "1/2 tsp cinnamon",
+                    "Chopped pistachios for garnish"
+                ],
+                "steps": [
+                    "In a saucepan, mix cold milk and sahlab powder until dissolved.",
+                    "Add sugar, heat on medium, stirring constantly until thickened.",
+                    "Pour into cups, dust with cinnamon, garnish with pistachios. Serve warm."
+                ]
+            }
+        ]
+    },
+    "Personal": {
+        "Custom": [
+            {
+                "name": "High Protein Peanut Butter Banana Smoothie",
+                "time": 5,
+                "ingredients": [
+                    "1 banana",
+                    "2 tbsp peanut butter",
+                    "1 cup almond milk",
+                    "1 scoop vanilla protein powder",
+                    "1/2 cup ice cubes"
+                ],
+                "steps": [
+                    "Blend all ingredients until smooth.",
+                    "Pour into a glass. Serve immediately."
+                ]
+            },
+            {
+                "name": "Keto Chocolate Avocado Mousse",
+                "time": 5,
+                "ingredients": [
+                    "2 ripe avocados",
+                    "1/4 cup unsweetened cocoa powder",
+                    "1/4 cup keto-friendly sweetener (erythritol)",
+                    "1 tsp vanilla extract",
+                    "1/4 cup coconut milk"
+                ],
+                "steps": [
+                    "Blend all ingredients until creamy and smooth.",
+                    "Chill for 30 min. Serve cold."
+                ]
+            }
+        ]
+    }
+}
