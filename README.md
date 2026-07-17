@@ -45,3 +45,10 @@ python main.py
 **├── ai_engine.py**        
 **├── data_structures.py**   
 **└── recipe_db.json**       
+
+---
+
+## 📌 Future Ideas
+* [ ] Export/import custom recipes as shareable files.
+* [ ] Migrate to a Web/Mobile frontend (Flask/FastAPI + React/Flutter).
+* [ ] Integrate nutritional info tracking and automated meal planning.
